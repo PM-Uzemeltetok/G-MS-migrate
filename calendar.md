@@ -6,7 +6,7 @@ https://outlook.office.com/calendar
 
 ### Új esemény
 Használata nagyon hasonló a Google calendarhoz akár fent a `New event` gombbal, akár a naptárban az időpontra kattintva lehet új eseményt csinálni. Felül `Save gomb` mellett látható, hogy melyik naptárhoz szeretnénk eseményt hozzáadni. Ha mást is meg szeretnénk hívni az eseményre, akkor itt is meg fog jelenni a többi fél elfoglaltsága - de csak házon belül mutatja. Létrehozható Teams meeting az eseményekre, ha meghívsz valakit, akkor automatikusan létrejön. A lehetőség csak az advanced módban jön elő, amit a jobb fenti nyilacskával lehet előhívni:  
-![Calendar subscribe](assets\calendar_teams_1.png)  
+![Calendar subscribe](assets/calendar_teams_1.png)  
 Utána válik láthatóvá az opció:  
 ![Calendar subscribe](assets/calendar_teams_2.png)
 
