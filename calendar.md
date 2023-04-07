@@ -11,7 +11,7 @@ Utána válik láthatóvá az opció:
 ![Calendar subscribe](assets/calendar_teams_2.png)
 
 ### Naptárra feliratkozás
-Van lehetőség a közös naptárakra feliratkozni. A jelenlegi gyakorlatot követve a közös naptár és a szoba/teremfoglalások itt lesznek nyilvántartva. Feliratkozás menete: `Add calendar > Add from directory > itt válaszd ki a saját accountodat ` majd a következő mezőbe kell írni, hogy milyen naptárra szeretnél feliratkozni. A közös naptárak `calendar_`-al kezdődnek, ha ezt beírod, akkor fel fogja dobni ezeket a lehetőségetek. `Add to` opciónál pedig tanácsos a `My calendars`-t választani.  
+Van lehetőség a közös naptárakra feliratkozni. A jelenlegi gyakorlatot követve a közös naptár és a szoba/teremfoglalások itt lesznek nyilvántartva. Feliratkozás menete: `Add calendar > Add from directory > itt válaszd ki a saját accountodat ` majd a következő mezőbe kell írni, hogy milyen naptárra szeretnél feliratkozni. A közös naptárak `calendar_`-al kezdődnek, ha ezt beírod, akkor fel fogja dobni ezeket a lehetőségeket. `Add to` opciónál pedig tanácsos a `My calendars`-t választani.  
 ![Calendar subscribe](assets/calendar_sub.png)
 
 ### Színezés
