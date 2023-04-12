@@ -17,5 +17,5 @@ Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/outlook_calend
 Calendar link: https://outlook.office.com/calendar
 
 ### Office telepítő beszerzése
-Link: https://portal.office.com/account
+Link: https://portal.office.com/account  
 Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/office.md
