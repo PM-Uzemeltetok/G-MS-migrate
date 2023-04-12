@@ -6,16 +6,16 @@ Többfaktoros azonosítás kötelező! Eleinte csak nagyon idegesítő lesz, de 
 Második faktornak lehet használni: Microsoft Authenticator appot (ajánlott), 3rd party OTP generátort (Google Authenticator, Authy, stb..), illetve SMS-t. Erősen ajánlott az első bejelentkezéskor elvégezni.  
 
 ### Dokumentumtárral kapcsolatos infok (Drive > Sharepoint)
-Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/drive.md  
-Drive link: https://progmastershu.sharepoint.com/sites/Drive/Megosztott%20dokumentumok/Forms/AllItems.aspx
+Drive link: https://progmastershu.sharepoint.com/sites/Drive/Megosztott%20dokumentumok/Forms/AllItems.aspx  
+Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/drive.md
 
 ### Levelezéssel kapcsolatos infok (GMail > Outlook)
-Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/outlook_calendar.md  
-Outlook login: https://outlook.office.com
+Outlook login: https://outlook.office.com  
+Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/outlook_calendar.md
 
 ### Naptárral kapcsolatos infok (Calendar)
-Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/outlook_calendar.md#calendar  
-Calendar link: https://outlook.office.com/calendar
+Calendar link: https://outlook.office.com/calendar  
+Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/outlook_calendar.md#calendar
 
 ### Office telepítő beszerzése
 Link: https://portal.office.com/account  
