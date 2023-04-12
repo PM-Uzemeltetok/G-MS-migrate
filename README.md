@@ -17,5 +17,5 @@ Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/outlook_calend
 Calendar link: https://outlook.office.com/calendar
 
 ### Office telepítő beszerzése
-Link: https://portal.office.com/account  
-View apps and devices > Nyelv tetszőlegesen választható > Verzió maradhat alapértelmezetten 64-bit. Ez letölti a telepítőt, amibe szintén be kell jelentkezni a progmasters-es accounttal. A Devices rész alatt menedzselhetők a telepített példányok, egyszerre 5 példány lehet (telefon/tablet nem foglal licenszt). Amelyikre nincs szükségünk, azt törölhetjük a listából.
+Link: https://portal.office.com/account
+Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/office.md
