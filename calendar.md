@@ -5,7 +5,7 @@ https://outlook.office.com/
 
 ### Csoportra feliratkozás
 Akik rendelkeznek olyan csoporttagsággal, amihez jár Shared Mailbox, azoknál az email-ek között ez külön postafiókként jelenik meg. Akinek telepített Outlook-ja van, azoknak automatikusan felcsatolódik, az online felhasználóknak kézzel kell feliratkozni. Folders jobb gomb > Add shared folder or mailbox.  
-![Outlook shared mailbox subscribe](assets/outlook_sharedfolder.png.png) 
+![Outlook shared mailbox subscribe](assets/outlook_sharedfolder.png) 
 
 ## Calendar
 
