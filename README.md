@@ -2,13 +2,14 @@
 ## Segítség az átállásra dokumentumgyűjtemény
 
 ### Multifaktor beállítás
-Többfaktoros azonosítás kötelező! Eleinte csak nagyon idegesítő lesz, de 14 nap után kizár a fiókból, ha nem csinálod meg. Második faktornak lehet használni a Microsoft Authenticator appot (ajánlott), 3rd party OTP generátort (Google Authenticator, Authy, stb..), illetve SMS-t. Erősen ajánlott az első bejelentkezéskor elvégezni.  
+Többfaktoros azonosítás kötelező! Eleinte csak nagyon idegesítő lesz, de 14 nap után kizár a fiókból, ha nem csinálod meg.  
+Második faktornak lehet használni: Microsoft Authenticator appot (ajánlott), 3rd party OTP generátort (Google Authenticator, Authy, stb..), illetve SMS-t. Erősen ajánlott az első bejelentkezéskor elvégezni.  
 
-### Dokumentumtárral kapcsolatos infok (Drive/Sharepoint)
+### Dokumentumtárral kapcsolatos infok (Drive > Sharepoint)
 Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/drive.md  
 Drive link: https://progmastershu.sharepoint.com/sites/Drive/Megosztott%20dokumentumok/Forms/AllItems.aspx
 
-### Levelezéssel kapcsolatos infok (Outlook)
+### Levelezéssel kapcsolatos infok (GMail > Outlook)
 Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/outlook_calendar.md  
 Outlook login: https://outlook.office.com
 
