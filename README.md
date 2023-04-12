@@ -22,5 +22,5 @@ Link: https://portal.office.com/account
 Doksi: https://github.com/PM-Uzemeltetok/G-MS-migrate/blob/master/office.md
 
 ### Ami nem jön át
-- Privát Google Drive file-ok, ami csak a ti fiókotokban van és nem a közös PROGmasters-ben
+- Privát Google Drive file-ok, ami csak a ti fiókotokban van és nem a közös PROGmasters-ben: https://takeout.google.com/
 - Calendar események - csak a saját naptáratok eseményeivel foglalkozzatok, a közös és a teremfoglalásokat intézzük
