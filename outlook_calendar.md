@@ -37,9 +37,9 @@ Természetesen van lehetőség több naptár létrehozására és azok megosztá
 #### 2. Jobb fent további lehetőségek kibontása
 ![Calendar copy event](assets/calendar_own_02.png)  
 #### 3. Kuka mellett 2. gomb: Esemény duplikálása
-![Calendar copy event](assets/calendar_own_03.png)  
+![Calendar copy event](assets/calendar_own_05.png)  
 #### 4. Kiválasztani azt a naptárt, ahova másolod (pl saját)
-![Calendar copy event](assets/calendar_own_04.png)
+![Calendar copy event](assets/calendar_own_06.png)
 
 ### Funfact: Zoom link Csatlakozás
 Ha van zoom link a leírásban és nem csinálsz hozzá Teams értekezletet, akkor lesz egy Csatlakozás gomb, ami a zoom eseményre visz. [Bámulatos hol tart már a tudomány](https://www.youtube.com/watch?v=NEg6UjVqhFE).
