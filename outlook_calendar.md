@@ -7,6 +7,8 @@ https://outlook.office.com/
 Akik rendelkeznek olyan csoporttagsággal, amihez jár Shared Mailbox, azoknál az email-ek között ez külön postafiókként jelenik meg. Akinek telepített Outlook-ja van, azoknak automatikusan felcsatolódik, az online felhasználóknak kézzel kell feliratkozni. Folders jobb gomb > Add shared folder or mailbox.  
 ![Outlook shared mailbox subscribe](assets/outlook_sharedfolder.png) 
 
+---
+
 ## Calendar
 
 ### Link
@@ -28,3 +30,16 @@ Elég értelmetlen módon alapból random színeket ad a naptáraknak *(minden m
 
 ### Megosztás
 Természetesen van lehetőség több naptár létrehozására és azok megosztására a Sharing and permissions alatt. Írási jogot csak házon belül tudunk adni egymásnak, külsős csak láthatja az eseményeinket.
+
+### Esemény másolása saját naptárba (köszi Zsófi ✌)
+#### 1. Megnyitod szerkesztésre a közös eseményt
+![Calendar copy event](assets/calendar_own_01.png)  
+#### 2. Jobb fent további lehetőségek kibontása
+![Calendar copy event](assets/calendar_own_02.png)  
+#### 3. Kuka mellett 2. gomb: Esemény duplikálása
+![Calendar copy event](assets/calendar_own_03.png)  
+#### 4. Kiválasztani azt a naptárt, ahova másolod (pl saját)
+![Calendar copy event](assets/calendar_own_04.png)
+
+### Funfact: Zoom link Csatlakozás
+Ha van zoom link a leírásban és nem csinálsz hozzá Teams értekezletet, akkor lesz egy Csatlakozás gomb, ami a zoom eseményre visz. [Bámulatos hol tart már a tudomány](https://www.youtube.com/watch?v=NEg6UjVqhFE).
