@@ -42,4 +42,5 @@ Természetesen van lehetőség több naptár létrehozására és azok megosztá
 ![Calendar copy event](assets/calendar_own_06.png)
 
 ### Funfact: Zoom link Csatlakozás
+![Calendar zoom](assets/calendar_zoom.png)
 Ha van zoom link a leírásban és nem csinálsz hozzá Teams értekezletet, akkor lesz egy Csatlakozás gomb, ami a zoom eseményre visz. [Bámulatos hol tart már a tudomány](https://www.youtube.com/watch?v=NEg6UjVqhFE).
